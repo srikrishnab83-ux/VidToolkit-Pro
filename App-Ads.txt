@@ -1,0 +1,4 @@
+google.com, ca-pub-3669501893002041, DIRECT, f08c47fec0942fa0
+# Your App ID: ca-app-pub-3669501893002041~7340302451
+# Verify at: https://srikrishnab83-ux.github.io/VidToolkit-Pro/app-ads.txt
+# Also add to: https://srikrishnab83-ux.github.io/app-ads.txt if you own root
